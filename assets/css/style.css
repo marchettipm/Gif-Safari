@@ -8,17 +8,64 @@
 }
 
 #safari {
-	font-size: 40px;
-	color: white;
-	margin-left: 20px;
+	font-size: 80px;
+	color: red;
+	margin-left: 0px;
 	margin-top: 10px;
+	text-align: center;
+	font-family: 'Permanent Marker', cursive;
+
+
 }
 
 #buttons-view button {
 	margin-left: 10px;
+	margin-top: 20px;
+	margin-right: 25px;
 }
 
 #movie-form {
 	margin-left: 20px;
 }
+
+#animal-view {
+	float: left;
+	width: 60%;
+}
+
+#buttons {
+	display: flex;
+	float: right;
+	flex: wrap;
+	width: 300px;
+	margin-right: 80px;
+	height: 100%;
+}
+
+#Choise {
+	margin-bottom: 30px;
+	font-size: 25px;
+}
+
+#fig {
+	width: 30%;
+	float: left;
+	margin-top: 60px;
+	align-content: center;
+/*	margin-left: 60px;
+*//*	margin-right: 700px;
+*/}
+
+figcaption {
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Permanent Marker', cursive;
+	color: red;
+
+#picture {
+
+}
+
+
+
 
